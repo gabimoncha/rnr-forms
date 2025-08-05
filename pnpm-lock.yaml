@@ -35,7 +35,7 @@ importers:
       '@radix-ui/react-tabs':
         specifier: ^1.1.12
         version: 1.1.12(@types/react-dom@19.1.5(@types/react@19.0.14))(@types/react@19.0.14)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@rnr-forms':
+      '@rnr-forms/core':
         specifier: workspace:*
         version: link:../../packages/rnr-forms
       class-variance-authority:
@@ -144,7 +144,7 @@ importers:
       '@rn-primitives/slot':
         specifier: ~1.2.0
         version: 1.2.0(react-native-web@0.21.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react-native@0.79.5(@babel/core@7.28.0)(@react-native-community/cli@13.6.6)(@types/react@19.0.14)(react@19.0.0))(react@19.0.0)
-      '@rnr-forms':
+      '@rnr-forms/core':
         specifier: workspace:*
         version: link:../../packages/rnr-forms
       '@shopify/flash-list':

@@ -8,10 +8,10 @@
     "lint": "turbo lint",
     "test": "turbo test",
     "build": "turbo build",
+    "build:docs": "turbo build --filter=@rnr-forms/docs",
+    "build:showcase": "turbo build --filter=@rnr-forms/showcase",
     "registry": "turbo registry",
     "format": "prettier --write .",
-    "build:showcase": "turbo build --filter=@rnr-forms/showcase",
-    "build:docs": "turbo build --filter=@rnr-forms/docs",
     "clean": "turbo clean && rm -rf .turbo node_modules"
   },
   "devDependencies": {
