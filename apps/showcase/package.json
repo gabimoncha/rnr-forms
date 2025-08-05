@@ -6,10 +6,10 @@
     "dev": "ENV=development expo start --clear",
     "start": "ENV=development expo start --clear",
     "testflight": "eas build -p ios --submit",
-    "build:web": "pnpm dlx expo export -p web",
-    "serve:web": "pnpm dlx serve dist --single",
+    "build:web": "npx expo export -p web",
+    "serve:web": "npx serve dist --single",
     "clean": "rm -rf .expo node_modules",
-    "postinstall": "pnpm dlx tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css",
+    "postinstall": "tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css",
     "registry": "shadcn build --output ./public/r"
   },
   "dependencies": {
