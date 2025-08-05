@@ -1,6 +1,6 @@
 {
-  "name": "@rnr-forms",
-  "description": "Example library for React Native Reusables Registry Template",
+  "name": "@rnr-forms/core",
+  "description": "Universal Forms library",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf node_modules"

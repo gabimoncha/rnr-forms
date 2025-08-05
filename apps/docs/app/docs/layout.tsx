@@ -18,12 +18,12 @@ export default function Layout({ children }: { children: ReactNode }) {
               <div className="flex items-center justify-center">
                 <RnrIcon />
               </div>
-              <p className="text-base">Registry Template</p>
+              <p className="text-base">Universal Forms</p>
             </div>
           ),
         }}
         sidebar={SIDEBAR_PROPS}
-        githubUrl="https://github.com/gabimoncha/rnr-registry-template">
+        githubUrl="https://github.com/gabimoncha/rnr-forms">
         {children}
       </DocsLayout>
     </>

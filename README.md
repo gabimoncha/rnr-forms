@@ -1,6 +1,6 @@
-# React Native Reusables registry template
+# Universal Forms
 
-Bringing [shadcn/ui](https://ui.shadcn.com) to React Native. Beautifully crafted components with [Nativewind](https://www.nativewind.dev/), open source, and almost as easy to use.</i>
+Bringing [shadcn/ui forms](https://ui.shadcn.com/docs/components/form) to React Native. Based on [react-native-reusables](https://reactnativereusables.com) components.
 
 ![hero](apps/docs/public/og.png)
 
@@ -16,7 +16,7 @@ This is a template for creating a custom registry using Next.js or Expo.
 
 ## Documentation
 
-Visit https://rnr-registry-template-docs.vercel.app/ to view the documentation.
+Visit https://rnr-forms.vercel.app/ to view the documentation.
 
 ## Community Resources
 
@@ -25,3 +25,7 @@ See the [community resources](./COMMUNITY_RESOURCES.md) for community-maintained
 ## License
 
 Licensed under the [MIT license](/LICENSE).
+
+## Credits
+
+- [react-native-reusables](https://reactnativereusables.com) for the inspiration and the template.

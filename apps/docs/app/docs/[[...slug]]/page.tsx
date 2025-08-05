@@ -99,31 +99,31 @@ function Footer({ url }: { url: string }) {
         <div className="text-fd-muted-foreground w-full text-balance px-4 text-center text-xs leading-loose lg:text-sm">
           Built by{' '}
           <a
-            href="https://x.com/mrzachnugent"
+            href="https://x.com/gabimoncha"
             target="_blank"
             rel="noreferrer"
             className="underline underline-offset-4">
-            mrzachnugent
+            gabimoncha
           </a>{' '}
           at{' '}
           <a
-            href="https://foundedlabs.com"
+            href="https://mvp.cooking"
             target="_blank"
             rel="noreferrer"
             className="decoration-fd-muted-foreground/0 hover:decoration-fd-muted-foreground underline underline-offset-4">
-            Founded Labs
+            MVP Cooking
           </a>
           , bringing{' '}
           <a
-            href="https://ui.shadcn.com"
+            href="https://ui.shadcn.com/docs/components/form"
             target="_blank"
             rel="noreferrer"
             className="underline underline-offset-4">
-            shadcn/ui
+            shadcn/ui forms
           </a>{' '}
           to React Native. Source on{' '}
           <a
-            href="https://github.com/gabimoncha/rnr-registry-template"
+            href="https://github.com/gabimoncha/rnr-forms"
             target="_blank"
             rel="noreferrer"
             className="underline underline-offset-4">

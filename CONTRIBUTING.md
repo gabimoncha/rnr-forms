@@ -41,15 +41,15 @@ Please follow the coding style and guidelines used in the project. If there are 
 
 ## Issue Tracker
 
-Check the [issue tracker](https://github.com/gabimoncha/rnr-registry-template/issues) for existing issues or open a new issue to discuss and coordinate your contribution with the maintainers.
+Check the [issue tracker](https://github.com/gabimoncha/rnr-forms/issues) for existing issues or open a new issue to discuss and coordinate your contribution with the maintainers.
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](https://github.com/gabimoncha/rnr-registry-template/blob/main/CODE_OF_CONDUCT.md). Be respectful and considerate towards others.
+Please review and adhere to our [Code of Conduct](https://github.com/gabimoncha/rnr-forms/blob/main/CODE_OF_CONDUCT.md). Be respectful and considerate towards others.
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](https://github.com/gabimoncha/rnr-registry-template/blob/main/LICENSE) file of this repository.
+By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](https://github.com/gabimoncha/rnr-forms/blob/main/LICENSE) file of this repository.
 
 ## Contact
 

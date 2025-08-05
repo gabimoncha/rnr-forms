@@ -7,8 +7,8 @@ import Link from 'next/link';
 import type { ReactNode } from 'react';
 
 export const metadata: Metadata = {
-  title: 'React Native Reusables Registry Template',
-  description: 'A template you can use to create your own Universal Components registry.',
+  title: 'Universal Forms',
+  description: 'A forms library for React Native and Expo apps',
 };
 
 export default function Layout({ children }: { children: ReactNode }) {
@@ -16,7 +16,7 @@ export default function Layout({ children }: { children: ReactNode }) {
     <>
       <SkipNavigationButton />
       <HomeLayout
-        githubUrl="https://github.com/gabimoncha/rnr-registry-template"
+        githubUrl="https://github.com/gabimoncha/rnr-forms"
         nav={{
           title: (
             <div className="hover:bg-fd-accent -ml-0.5 flex size-8 items-center justify-center rounded-md transition-colors duration-200">

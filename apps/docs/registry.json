@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "RNR Forms",
-  "homepage": "https://rnr-forms-docs.vercel.app/",
+  "homepage": "https://rnr-forms.vercel.app/",
   "items": [
     {
       "name": "example-component",
@@ -11,7 +11,7 @@
       "author": "@gabimoncha",
       "files": [
         {
-          "path": "./node_modules/@rnr-forms/src/components/ui/red-button.tsx",
+          "path": "./node_modules/@rnr-forms/core/src/components/ui/red-button.tsx",
           "type": "registry:component"
         }
       ],
@@ -28,7 +28,7 @@
       "author": "@gabimoncha",
       "files": [
         {
-          "path": "./node_modules/@rnr-forms/src/blocks/multiple-buttons.tsx",
+          "path": "./node_modules/@rnr-forms/core/src/blocks/multiple-buttons.tsx",
           "type": "registry:block"
         }
       ],
