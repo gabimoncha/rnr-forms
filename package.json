@@ -1,17 +1,17 @@
 {
-  "name": "@rnr/monorepo",
+  "name": "@rnr-forms/monorepo",
   "private": true,
   "scripts": {
     "dev": "turbo dev",
-    "dev:docs": "turbo dev --filter=@rnr/docs",
-    "dev:showcase": "turbo dev --filter=@rnr/showcase --concurrency 32",
+    "dev:docs": "turbo dev --filter=@rnr-forms/docs",
+    "dev:showcase": "turbo dev --filter=@rnr-forms/showcase --concurrency 32",
     "lint": "turbo lint",
     "test": "turbo test",
     "build": "turbo build",
     "registry": "turbo registry",
     "format": "prettier --write .",
-    "build:showcase": "turbo build --filter=@rnr/showcase",
-    "build:docs": "turbo build --filter=@rnr/docs",
+    "build:showcase": "turbo build --filter=@rnr-forms/showcase",
+    "build:docs": "turbo build --filter=@rnr-forms/docs",
     "clean": "turbo clean && rm -rf .turbo node_modules"
   },
   "devDependencies": {

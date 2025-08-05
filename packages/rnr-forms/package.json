@@ -1,5 +1,5 @@
 {
-  "name": "@rnr/example-library",
+  "name": "@rnr-forms",
   "description": "Example library for React Native Reusables Registry Template",
   "license": "MIT",
   "scripts": {
@@ -15,12 +15,19 @@
   },
   "dependencies": {
     "@react-navigation/native": "^7.0.0",
+    "@rn-primitives/checkbox": "^1.2.0",
+    "@rn-primitives/label": "^1.2.0",
+    "@rn-primitives/radio-group": "^1.2.0",
+    "@rn-primitives/select": "^1.2.0",
     "@rn-primitives/slot": "~1.2.0",
+    "@rn-primitives/switch": "^1.2.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "nativewind": "^4.1.23",
+    "react-hook-form": "^7.62.0",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^4.0.14"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",

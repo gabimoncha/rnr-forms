@@ -10,7 +10,7 @@ const config = {
     './content/**/*.{md,mdx}',
     './mdx-components.{ts,tsx}',
     '../../node_modules/fumadocs-ui/dist/**/*.js',
-    './node_modules/@rnr/**/*.{ts,tsx}',
+    './node_modules/@rnr-forms/**/*.{ts,tsx}',
   ],
   presets: [
     // eslint-disable-next-line @typescript-eslint/no-require-imports

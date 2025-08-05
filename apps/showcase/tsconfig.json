@@ -4,8 +4,8 @@
     "baseUrl": ".",
     "paths": {
       "@showcase/*": ["./*"],
-      "~/*": ["../../packages/example-library/reusables/*"],
-      "@/example-library/*": ["../../packages/example-library/src/*"]
+      "~/*": ["../../packages/rnr-forms/reusables/*"],
+      "@/rnr-forms/*": ["../../packages/rnr-forms/src/*"]
     },
     "jsx": "react-native",
     "types": ["nativewind/types"],
