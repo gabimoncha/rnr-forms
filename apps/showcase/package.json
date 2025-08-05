@@ -9,7 +9,7 @@
     "build:web": "npx expo export -p web",
     "serve:web": "npx serve dist --single",
     "clean": "rm -rf .expo node_modules",
-    "postinstall": "tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css",
+    "postinstall": "npx tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css",
     "registry": "shadcn build --output ./public/r"
   },
   "dependencies": {
